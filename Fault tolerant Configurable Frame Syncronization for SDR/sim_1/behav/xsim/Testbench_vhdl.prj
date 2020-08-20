@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Mehtap_Hanim.srcs/sources_1/new/Main.vhd" \
+"../../../../Mehtap_Hanim.srcs/sim_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,5 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+Failure: Simulation completed.
+Time: 20770 ns  Iteration: 0  Process: /Testbench/line__92  File: C:/Users/Ahmet/Mehtap_Hanim/Mehtap_Hanim.srcs/sim_1/new/Testbench.vhd
+$finish called at time : 20770 ns : File "C:/Users/Ahmet/Mehtap_Hanim/Mehtap_Hanim.srcs/sim_1/new/Testbench.vhd" Line 873
